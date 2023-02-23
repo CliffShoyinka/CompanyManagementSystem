@@ -1,2 +1,4 @@
-package application.console;public class Runner {
+package application.console;
+
+public class Runner {
 }

@@ -1,2 +1,4 @@
-package entities.concretes;public class Cafe {
+package entities.concretes;
+
+public class Cafe {
 }

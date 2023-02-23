@@ -1,2 +1,4 @@
-package application.console.restaurant;public class RestaurantBillGenerator {
+package application.console.restaurant;
+
+public class RestaurantBillGenerator {
 }

@@ -1,2 +1,4 @@
-package entities.concretes;public class Dish {
+package entities.concretes;
+
+public class Dish {
 }

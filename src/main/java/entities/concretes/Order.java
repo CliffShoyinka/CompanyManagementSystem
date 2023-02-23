@@ -1,2 +1,4 @@
-package entities.concretes;public class Order {
+package entities.concretes;
+
+public class Order {
 }

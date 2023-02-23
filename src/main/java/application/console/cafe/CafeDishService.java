@@ -1,2 +1,4 @@
-package application.console.cafe;public class CafeDishService {
+package application.console.cafe;
+
+public class CafeDishService {
 }

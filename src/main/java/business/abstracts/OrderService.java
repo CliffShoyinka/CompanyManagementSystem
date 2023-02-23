@@ -1,2 +1,4 @@
-package business.abstracts;public class OrderService {
+package business.abstracts;
+
+public class OrderService {
 }

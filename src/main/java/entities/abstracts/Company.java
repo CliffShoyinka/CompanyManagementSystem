@@ -1,2 +1,4 @@
-package entities.abstracts;public class Company {
+package entities.abstracts;
+
+public class Company {
 }
